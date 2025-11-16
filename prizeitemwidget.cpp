@@ -1,0 +1,2 @@
+#include "prizeitemwidget.h"
+

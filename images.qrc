@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bkg.jpg</file>
+        <file>images/cup.png</file>
+        <file>images/coin.jpg</file>
+        <file>images/5050.png</file>
+        <file>images/5050_icon.png</file>
+        <file>images/people_icon.svg</file>
+        <file>images/a_icon.png</file>
+        <file>images/b_icon.png</file>
+        <file>images/c_icon.png</file>
+        <file>images/d_icon.png</file>
+        <file>images/main_bkg.jpg</file>
+        <file>images/loser.png</file>
+        <file>images/pause.png</file>
+        <file>images/main_bkg.svg</file>
+        <file>images/liem.png</file>
+        <file>images/sao.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/letplay.wav</file>
+        <file>sounds/correct.wav</file>
+        <file>sounds/wrong.wav</file>
+        <file>sounds/step5.wav</file>
+    </qresource>
+</RCC>
